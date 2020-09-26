@@ -2,26 +2,24 @@
 
 ![XD75RE Keyboard](images/Keyboard.JPG)
 
-Keyboard layout for [XD75RE](https://kprepublic.com/products/xd75re-xd75am-xd75-xiudi-60-custom-keyboard-pcb) ortholinear mechanical keyboard.
+Keyboard layout for XD75RE ortholinear mechanical keyboard.
 
-I had been using [Universal Layout](https://github.com/braindefender/universal-layout) for years now 
-and wanted to push the limit of my keyboard experience with ortholinear XD75RE.
+I had been using cheap membrane keyboard with my custom [Universal Layout](https://github.com/braindefender/universal-layout) for years. It was good but not great. 
+I wanted to push the limit of my keyboard experience, so I built my first mechanical keyboard based on ortholinear [XD75RE](https://kprepublic.com/products/xd75re-xd75am-xd75-xiudi-60-custom-keyboard-pcb) chip.
 
-The main purpose of Universal Layout was logical arrangement of similar symbols (e.g. <kbd>'</kbd>, <kbd>"</kbd>, <kbd>\`</kbd>) in one place
-and preserving positions of symbols in both English and Russian layouts.
+The main purpose of Universal Layout was logical arrangement of similar symbols (e.g. <kbd>'</kbd>, <kbd>"</kbd>, <kbd>\`</kbd>) in one place 
+and to preserve positions of symbols in both English and Russian layouts.
 
-In this layout I combined the main advantages of Universal Layout and spice it up with new features like vim arrows, numpad-switching and media controls.
-
-You will be guided through this article by the mascot of Universal Layout — Symbot!
+In this layout I combined the main advantages of Universal Layout and spiced it up with new features like vim arrows, numpad-switching and media controls.
 
 ![Symbot](images/Mascot.png)
 
 **Key differences from traditional layout:**
 
-- Keyboard split into three parts with Numpad/Arrow block in center.
-- Keys with <kbd>,;</kbd> and <kbd>.:</kbd> are placed separately from both sides of <kbd>Space</kbd>.
-- All common symbols are gathered in one key. Such as quotes, slashes and dashes.
-- Numeric row has been swapped with symbols: to type number use <kbd>Shift</kbd> + symbol, e.g. <kbd>Shift</kbd> + <kbd>@</kbd> = <kbd>2</kbd>.
+- Keyboard split into three parts with Numpad/Arrow block in center
+- Keys with <kbd>,;</kbd> and <kbd>.:</kbd> are placed separately from both sides of <kbd>Space</kbd>
+- All common symbols are gathered in one key. Such as quotes, slashes and dashes
+- Numeric row is swapped with symbols: to type number use <kbd>Shift</kbd> + symbol, e.g. <kbd>Shift</kbd> + <kbd>@</kbd> = <kbd>2</kbd>
 
 ## Layer One
 
@@ -47,8 +45,8 @@ Keys that combine similar symbols (like quotes and slashes) are also powered by 
 
 **🇷🇺 For Russian layout users:**
 
-- Символы <kbd>Ё</kbd>, <kbd>Щ</kbd> и <kbd>Ъ</kbd> помещены на Alt Layer и практически не вызывают проблем в наборе.  
-- С помощью этого слоя всегда можно ввести символы <kbd>[</kbd>, <kbd>]</kbd>, <kbd>{</kbd> и <kbd>}</kbd>. 
+- Символы <kbd>Ё</kbd>, <kbd>Щ</kbd> и <kbd>Ъ</kbd> помещены на Alt Layer и практически не вызывают проблем в наборе  
+- С помощью этого слоя всегда можно ввести символы <kbd>[</kbd>, <kbd>]</kbd>, <kbd>{</kbd>, <kbd>}</kbd>, <kbd><</kbd> и <kbd>></kbd>.
 
 ## Installation
 
